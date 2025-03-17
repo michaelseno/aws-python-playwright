@@ -3,6 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 .idea
+screenshots/
 
 # C extensions
 *.so
@@ -51,7 +52,8 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 cover/
-
+reports/
+videos/
 # Translations
 *.mo
 *.pot
